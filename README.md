@@ -80,7 +80,6 @@ Visualization:
 6. What is the average time between spill occurrence and reporting, and how promptly are spills typically resolved?
 
 Results/Interpretation: 
-Value ? So What?
 Decline in petroleum spills since 1990, with #2 fuel oil, gasoline, and diesel being the most commonly spilled materials. 
 August is a critical period characterized by a surge in spill incidents across various categories. 
 Commercial and industrial facilities are identified as the primary sources of spills, with equipment failure being the leading contributing factor. 
